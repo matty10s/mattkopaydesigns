@@ -96,27 +96,27 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #c7f3ff;
-  color: #fff;
+  background: #404d59;
+  color: #ffffff;
 }
 .btn-primary:active {
-  background: #c7f3ff !important;
+  background: #404d59 !important;
 }
 .btn-primary:hover {
-  background: #c7f3ff;
+  background: #9bbcdb;
 }
 .btn-primary.focus, .btn-primary.active {
-  background: #c7f3ff !important;
+  background: #404d59 !important;
   box-shadow: none !important;
 }
 
 .btn-transparent {
   background: transparent;
-  color: #c7f3ff;
+  color: #404d59;
   font-weight: bold;
 }
 .btn-transparent:active, .btn-transparent:hover {
-  color: #c7f3ff;
+  color: #9bbcdb;
 }
 
 body {
@@ -414,6 +414,7 @@ textarea.form-control {
 .navbar .nav-item .nav-link {
   font-family: "Dosis", sans-serif;
   text-transform: uppercase;
+  text-decoration-color: #000;
   padding: 15px;
 }
 .navbar .nav-item.active {
