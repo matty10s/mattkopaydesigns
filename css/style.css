@@ -564,7 +564,7 @@ textarea.form-control {
   background: #c7f3ff;
 }
 .hover-bg-primary:hover * {
-  color: rgb(0, 123, 255);
+  color: #1c3e47;
 }
 
 .active-bg-primary {
