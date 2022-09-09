@@ -12,12 +12,12 @@ body {
   font-family: "Dosis", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #4c4c4c;
+  color: #222223;
 }
 
 p, .paragraph {
   font-weight: 400;
-  color: #4c4c4c;
+  color: #222223;
   font-size: 15px;
   line-height: 1.8;
   font-family: "Dosis", sans-serif;
@@ -418,7 +418,7 @@ textarea.form-control {
   padding: 15px;
 }
 .navbar .nav-item.active {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .navbar-dark .navbar-nav .nav-link {
