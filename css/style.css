@@ -131,7 +131,7 @@ body {
 
 ::selection {
   background: #c7f3ff;
-  color: #fff;
+  color: rgb(87, 85, 107);
 }
 
 /* preloader */
@@ -561,10 +561,10 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .hover-bg-primary:hover {
-  background: #c7f3ff;
+  background: #1f2628;
 }
 .hover-bg-primary:hover * {
-  color: #1c3e47;
+  color: #1f2628;
 }
 
 .active-bg-primary {
@@ -579,7 +579,7 @@ textarea.form-control {
   transition: 0.2s ease;
 }
 .hover-shadow:hover {
-  box-shadow: 0px 18px 40px 8px rgba(224, 241, 255, 0.54) !important;
+  box-shadow: 0px 18px 40px 8px rgba(14, 17, 19, 0.54) !important;
 }
 
 /* /service */
@@ -713,7 +713,7 @@ blockquote {
   margin-bottom: 20px;
 }
 .content strong {
-  font-family: "Playfair Display", serif;
+  font-family: "Docsis", sans-serif;
   font-size: 22px;
   font-weight: normal;
   color: #000;
