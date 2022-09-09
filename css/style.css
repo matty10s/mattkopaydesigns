@@ -232,15 +232,15 @@ a:hover {
 }
 
 .bg-gray {
-  background: #eaeaea !important;
+  background: #4c4c4c !important;
 }
 
 .text-primary {
-  color: #4c4c4c !important;
+  color: #000000 !important;
 }
 
 .text-color {
-  color: #4c4c4c;
+  color: #000000;
 }
 
 .text-dark {
