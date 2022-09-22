@@ -5,6 +5,11 @@
  * GITHUB: https://github.com/themefisher/
  */
 
+
+
+
+
+
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Dosis:700|Dosis:400");
 body {
@@ -132,6 +137,12 @@ body {
 ::selection {
   background: #c7f3ff;
   color: rgb(87, 85, 107);
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 /* preloader */
@@ -834,4 +845,6 @@ blockquote {
 .filter-controls li.active {
   font-weight: bold;
 }
+
+
 /*# sourceMappingURL=style.css.map */
