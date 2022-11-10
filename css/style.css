@@ -8,6 +8,13 @@ body {
   color: #0b0b0b;
 }
 
+a {
+  font-weight: 400;
+  font-size: 30px;
+  color: #42529c;
+  line-height: 1.2;
+}
+
 p, .paragraph {
   font-weight: 400;
   color: #0b0b0b;
